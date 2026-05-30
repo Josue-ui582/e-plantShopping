@@ -40,7 +40,7 @@ This structure provides predictable state transitions and makes the application 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/e-plantShopping.git
+git clone git@github.com:Josue-ui582/e-plantShopping.git
 ```
 
 Navigate to the project directory:
